@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
   userDetail=[{name:"shyam",email:"shyamkryadv345@gmail.com",phone:"+9779801622236"}]
-  navitem=["Home","Gallery","About","Contact Us"]
+  navitems=["Home","Gallery","About","Contact Us"]
 
 }
